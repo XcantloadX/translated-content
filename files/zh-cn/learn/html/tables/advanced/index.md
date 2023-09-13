@@ -413,7 +413,7 @@ th {
 2. 现在尝试添加适当的 `scope` 属性来让表格变得更加恰当。
 3. 最后，尝试把未添加 `scope` 属性的源文件再复制一份。这次使用 `id` 和 `headers` 属性让表格变得更加恰当。
 
-> **备注：** 你可以根据我们完成的例子检查你的工作，请看 [items-sold-scope.html](https://github.com/mdn/learning-area/blob/main/html/tables/advanced/items-sold-scope.html) ([also see this live](https://mdn.github.io/learning-area/html/tables/advanced/items-sold-scope.html)) 和 [items-sold-headers.html](https://github.com/mdn/learning-area/blob/main/html/tables/advanced/items-sold-headers.html)（[查看在线运行版本](https://mdn.github.io/learning-area/html/tables/advanced/items-sold-headers.html)）。
+> **备注：** 你可以根据我们完成的例子检查你的工作，请看 [items-sold-scope.html](https://github.com/mdn/learning-area/blob/main/html/tables/advanced/items-sold-scope.html) ([查看在线运行版本](https://mdn.github.io/learning-area/html/tables/advanced/items-sold-scope.html)) 和 [items-sold-headers.html](https://github.com/mdn/learning-area/blob/main/html/tables/advanced/items-sold-headers.html)（[查看在线运行版本](https://mdn.github.io/learning-area/html/tables/advanced/items-sold-headers.html)）。
 
 ## 总结
 
